@@ -33,10 +33,10 @@
 💭 "Então se lembre: olhe para as estrelas, e não para os seus pés." - Stephen Hawking
 
 </br>
-</br>
 
-## ![Ana github stats](https://github-readme-stats.vercel.app/api?username=anamioto&theme=radical&show_icons=true)
-
+<p align='center'>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=anamioto&theme=radical&show_icons=true"></a>
+</p>
 
 
 <!--
