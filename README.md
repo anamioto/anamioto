@@ -34,7 +34,8 @@
 
 </br>
 </br>
-![Ana github stats](https://github-readme-stats.vercel.app/api?username=anamioto&theme=radical&show_icons=true)
+
+## ![Ana github stats](https://github-readme-stats.vercel.app/api?username=anamioto&theme=radical&show_icons=true)
 
 
 
