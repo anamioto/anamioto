@@ -27,7 +27,6 @@
 👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP) </br>   
 👉 Presidente do Data Girls </br>
 👉 Diretora de Marketing do Neuron - DS and AI </br>
-</br>
 🧠 Paixão por aprender e ensinar </br>
 👅 Linguagens: Python, R, SQL </br>
 💻 Áreas de interesse: data science, machine learning, deep learning, estatística, processamento de linguagem natural, bioinformática, análise de dados... </br> 
