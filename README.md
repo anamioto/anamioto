@@ -24,7 +24,7 @@
 
 [PT] </br>
 👉 Bacharela em Informática Biomédica pela Faculdade de Medicina de Ribeirão Preto (FMRP-USP) </br>
-👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP) </br>   
+👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP)  
 👉 Presidente do Data Girls </br>
 👉 Diretora de Marketing do Neuron - DS and AI </br>
 🧠 Paixão por aprender e ensinar </br>
