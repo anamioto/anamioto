@@ -8,9 +8,10 @@
 ## Hello World! 👩‍💻
 
 [EN] </br>
-👉 Undergraduate in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP) </br>
+👉 Bachelor in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP) </br>
+👉 Master's student in the Interunits Postgraduate Program in Bioengineering from São Carlos School of Engineering, Ribeirão Preto Medical School and São Carlos Institute of Chemistry (EESC-USP, FMRP-USP, IQSC-USP) </br>
 👉 President of Data Girls </br>
-👉 Member of the Marketing Team of Neuron - DS and AI </br>
+👉 Marketing Director of Neuron - DS and AI </br>
 </br>
 🧠 Passion for learning and teaching </br>
 👅 Languages: Python, R, SQL </br>
@@ -22,9 +23,10 @@
 </br>
 
 [PT] </br>
-👉 Graduanda em Informática Biomédica pela Faculdade de Medicina de Ribeirão Preto (FMRP-USP) </br>
+👉 Bacharela em Informática Biomédica pela Faculdade de Medicina de Ribeirão Preto (FMRP-USP) </br>
+👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP) </br>   
 👉 Presidente do Data Girls </br>
-👉 Membro da Equipe de Marketing do Neuron - DS and AI </br>
+👉 Diretora de Marketing do Neuron - DS and AI </br>
 </br>
 🧠 Paixão por aprender e ensinar </br>
 👅 Linguagens: Python, R, SQL </br>
