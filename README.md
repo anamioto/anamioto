@@ -1,4 +1,4 @@
-# ![Capa](https://github.com/anamioto/anamioto/blob/main/Images/capa.png)
+# ![Capa](https://github.com/anamioto/anamioto/blob/main/Images/capa_git.png)
 
 <p align='center'>
 <a href="https://www.instagram.com/ana_mioto/"><img height="50" src="https://github.com/anamioto/anamioto/blob/main/Images/instagram%20(2).PNG"></a>&nbsp;&nbsp;
