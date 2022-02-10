@@ -1,9 +1,7 @@
 # ![Capa](https://github.com/anamioto/anamioto/blob/main/Images/capa_git.png)
 
-<p align='center'>
-<a href="https://www.instagram.com/ana_mioto/"><img height="50" src="https://github.com/anamioto/anamioto/blob/main/Images/instagram%20(2).PNG"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anaclara-amioto/"><img height="50" src="https://github.com/anamioto/anamioto/blob/main/Images/linkedin.PNG"></a>
-</p>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ana_mioto)](https://www.linkedin.com/in/anaclara-amioto) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclara-amioto)](https://www.linkedin.com/in/anaclara-amioto)
+
 
 ## Hello World! 👩‍💻
 
