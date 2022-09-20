@@ -8,6 +8,7 @@
 [EN] </br>
 👉 Bachelor in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP) </br>
 👉 Master's student in the Interunits Postgraduate Program in Bioengineering from São Carlos School of Engineering, Ribeirão Preto Medical School and São Carlos Institute of Chemistry (EESC-USP, FMRP-USP, IQSC-USP) </br>
+👉 Tech Speaker and previously instructor of Data Science at Alura </br>
 👉 Cofounder and counselor of Data Girls </br>
 👉 Counselor of Neuron - DS and AI </br>
 </br>
@@ -22,7 +23,8 @@
 
 [PT] </br>
 👉 Bacharela em Informática Biomédica pela Faculdade de Medicina de Ribeirão Preto (FMRP-USP) </br>
-👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP)  
+👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP) </br>
+👉 Palestrante de tecnologia e anteriormente instrutora de Ciência de Dados na Alura </br>
 👉 Co-fundadora e conselheira do Data Girls </br>
 👉 Conselheira do Neuron - DS and AI </br>
 </br>
