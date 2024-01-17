@@ -7,14 +7,14 @@
 
 [EN] </br>
 👉 Bachelor in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP) </br>
-👉 Master's student in the Interunits Postgraduate Program in Bioengineering from São Carlos School of Engineering, Ribeirão Preto Medical School and São Carlos Institute of Chemistry (EESC-USP, FMRP-USP, IQSC-USP) </br>
-👉 Tech Speaker and previously instructor of Data Science at Alura </br>
+👉 Master's in the Interunits Postgraduate Program in Bioengineering from São Carlos School of Engineering, Ribeirão Preto Medical School and São Carlos Institute of Chemistry (EESC-USP, FMRP-USP, IQSC-USP) </br>
+👉 Tech Speaker </br>
 👉 Cofounder and counselor of Data Girls </br>
 👉 Counselor of Neuron - DS and AI </br>
 </br>
 🧠 Passion for learning and teaching </br>
-👅 Languages: Python, R, SQL </br>
-💻 Areas of interest: data science, machine learning, deep learning, statistics, natural language processing, bioinformatics, data analytics... </br> 
+👅 Languages: Python, R, SQL, PySpark </br>
+💻 Areas of interest: data science, machine learning, deep learning, statistics, natural language processing, bioinformatics, data analytics, mlops... </br> 
 </br>
 💭 "Then remember: look at the stars, not your feet." - Stephen Hawking 
 
@@ -23,14 +23,14 @@
 
 [PT] </br>
 👉 Bacharela em Informática Biomédica pela Faculdade de Medicina de Ribeirão Preto (FMRP-USP) </br>
-👉 Mestranda no Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP) </br>
-👉 Palestrante de tecnologia e anteriormente instrutora de Ciência de Dados na Alura </br>
+👉 Mestra pelo Programa de Pós-Graduação Interunidades em Bioengenharia pela Escola de Engenharia de São Carlos, Faculdade de Medicina de Ribeirão Preto e Instituto de Química de São Carlos (EESC-USP, FMRP-USP, IQSC-USP) </br>
+👉 Palestrante de tecnologia </br>
 👉 Co-fundadora e conselheira do Data Girls </br>
 👉 Conselheira do Neuron - DS and AI </br>
 </br>
 🧠 Paixão por aprender e ensinar </br>
-👅 Linguagens: Python, R, SQL </br>
-💻 Áreas de interesse: data science, machine learning, deep learning, estatística, processamento de linguagem natural, bioinformática, análise de dados... </br> 
+👅 Linguagens: Python, R, SQL, PySpark </br>
+💻 Áreas de interesse: data science, machine learning, deep learning, estatística, processamento de linguagem natural, bioinformática, análise de dados, mlops... </br> 
 </br>
 💭 "Então se lembre: olhe para as estrelas, e não para os seus pés." - Stephen Hawking
 
