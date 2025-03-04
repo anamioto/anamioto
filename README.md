@@ -2,8 +2,9 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blueviolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ana_mioto)](https://www.instagram.com/ana_mioto) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaclara-amioto)](https://www.linkedin.com/in/anaclara-amioto)
 
-
 ## Hello World! 👩‍💻
+
+## In construction 🚧
 
 [EN] </br>
 👉 Bachelor in Biomedical Informatics from Ribeirão Preto Medical School - University of São Paulo (USP) </br>
@@ -20,6 +21,8 @@
 
 </br>
 </br>
+
+## Em construção 🚧
 
 [PT] </br>
 👉 Bacharela em Informática Biomédica pela Faculdade de Medicina de Ribeirão Preto (FMRP-USP) </br>
